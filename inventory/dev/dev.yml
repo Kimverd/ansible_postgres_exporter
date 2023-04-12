@@ -1,0 +1,9 @@
+all:
+  hosts:
+    dev:
+      ansible_host: 195.201.234.221
+      ip: 195.201.234.221
+      access_ip: 195.201.234.221
+      ansible_user: user
+      ansible_password: hnjpfpdtzsmv
+      ansible_become_password: hnjpfpdtzsmv
